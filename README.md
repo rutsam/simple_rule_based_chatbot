@@ -6,7 +6,7 @@ Welcome to the NLP chatbot platform, it leverages NLTK, sci-kit learn to create 
 
 <h1>Installation guide</h1>
 
-```{r, engine='bash'}
+```bash
 #create environment
 $python -m venv env
 
