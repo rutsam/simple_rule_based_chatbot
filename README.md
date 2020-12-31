@@ -9,12 +9,16 @@ Welcome to the NLP chatbot platform, it leverages NLTK, sci-kit learn to create 
 ```{r, engine='bash'}
 #create environment
 $python -m venv env
+
 #activate environment
 $source env/bin/activate
+
 #install packages
 $pip install -r requirements.txt
+
 #run tennis chatbot
 $python simple_chatpbot.py
+
 #run basketball chatbot
 $python basket_chatbot.py
 ```
