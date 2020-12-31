@@ -2,4 +2,4 @@
 env/
 
 #ignore the .vscode
-.vscode
+.vscode/
